@@ -28,19 +28,19 @@
 
 [7kyu](https://www.codewars.com/kata/remove-anchor-from-url/javascript)
 
-### First Non-Repeating Character
+### ~~First Non-Repeating Character~~
 
 [5kyu](https://www.codewars.com/kata/first-non-repeating-character/javascript)
 
-### Only Duplicates
+### ~~Only Duplicates~~
 
 [6kyu](https://www.codewars.com/kata/only-duplicates/train/javascript)
 
-### The Hashtag Generator
+### ~~The Hashtag Generator~~
 
 [5kyu](https://www.codewars.com/kata/the-hashtag-generator/train/javascript)
 
-### Exes and Ohs
+### ~~Exes and Ohs
 
 [7kyu](https://www.codewars.com/kata/exes-and-ohs/javascript)
 
