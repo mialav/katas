@@ -56,7 +56,7 @@
 
 [7kyu](https://www.codewars.com/kata/maximum-product/javascript)
 
-### ~~Duplicate Encoder
+### ~~Duplicate Encoder~~
 
 [6kyu](https://www.codewars.com/kata/duplicate-encoder/train/javascript)
 
