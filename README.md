@@ -2,29 +2,29 @@
 
 ## Easy / Intermediate ⭐️
 
-### Bouncing Balls
-[6kyu](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/solutions/javascript)  
+### ~~Bouncing Balls~~
+[6kyu](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/solutions/javascript)
 
-### Take a Ten Minute Walk
-[6kyu](https://www.codewars.com/kata/take-a-ten-minute-walk/train/javascript)  
+### ~~Take a Ten Minute Walk~~
+[6kyu](https://www.codewars.com/kata/take-a-ten-minute-walk/train/javascript)
 
-### You're a Square
+### ~~You're a Square~~
 
 [7kyu](https://www.codewars.com/kata/youre-a-square/javascript)
 
-### Sum of Numbers
+### ~~Sum of Numbers~~
 
 [7kyu](https://www.codewars.com/kata/beginner-series-number-3-sum-of-numbers/javascript)
 
-### Sum of Two Lowest Positive Integers
+### ~~Sum of Two Lowest Positive Integers~~
 
 [7kyu](https://www.codewars.com/kata/sum-of-two-lowest-positive-integers/javascript)
 
-### Count Duplicates
+### ~~Count Duplicates~~
 
 [6kyu](https://www.codewars.com/kata/counting-duplicates/train/javascript)
 
-### Remove Anchor from URL
+### ~~Remove Anchor from URL~~
 
 [7kyu](https://www.codewars.com/kata/remove-anchor-from-url/javascript)
 
