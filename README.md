@@ -44,19 +44,19 @@
 
 [7kyu](https://www.codewars.com/kata/exes-and-ohs/javascript)
 
-### Your Order Please
+### ~~Your Order Please~~
 
 [6kyu](https://www.codewars.com/kata/your-order-please/train/javascript)
 
-### Maximum Multiple
+### ~~Maximum Multiple~~
 
 [7kyu](https://www.codewars.com/kata/maximum-multiple/javascript)
 
-### Maximum Product
+### ~~Maximum Product~~
 
 [7kyu](https://www.codewars.com/kata/maximum-product/javascript)
 
-### Duplicate Encoder
+### ~~Duplicate Encoder
 
 [6kyu](https://www.codewars.com/kata/duplicate-encoder/train/javascript)
 
