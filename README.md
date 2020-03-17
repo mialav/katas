@@ -40,7 +40,7 @@
 
 [5kyu](https://www.codewars.com/kata/the-hashtag-generator/train/javascript)
 
-### ~~Exes and Ohs
+### ~~Exes and Ohs~~
 
 [7kyu](https://www.codewars.com/kata/exes-and-ohs/javascript)
 
