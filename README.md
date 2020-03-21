@@ -3,7 +3,7 @@
 ## Easy / Intermediate ⭐️
 
 ### ~~Bouncing Balls~~
-[6kyu](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/solutions/javascript)
+~~[6kyu](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/solutions/javascript)
 
 ### ~~Take a Ten Minute Walk~~
 [6kyu](https://www.codewars.com/kata/take-a-ten-minute-walk/train/javascript)
@@ -64,15 +64,15 @@
 
 [7kyu - 6kyu](https://www.codewars.com/collections/playing-with-numbers)
 
-### Who Likes It?
+### ~~Who Likes It?~~
 
 [6kyu](https://www.codewars.com/kata/who-likes-it/train/javascript)
 
-### Find the Missing Letter
+### ~~Find the Missing Letter
 
 [6kyu](https://www.codewars.com/kata/find-the-missing-letter/train/javascript)
 
-### Mumbling
+### ~~Mumbling~~
 
 [7kyu](https://www.codewars.com/kata/mumbling/train/javascript)
 
@@ -87,11 +87,11 @@
 ### The Supermarket Queue
 [6kyu](https://www.codewars.com/kata/57b06f90e298a7b53d000a86/train/javascript)  
 
-### Validate Credit Card Number
+### ~~Validate Credit Card Number~~
 
 [6kyu](https://www.codewars.com/kata/validate-credit-card-number/train/javascript)
 
-### Simple Pig Latin
+### ~~Simple Pig Latin
 
 [5kyu](https://www.codewars.com/kata/simple-pig-latin/train/javascript)
 
