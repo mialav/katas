@@ -6,59 +6,59 @@
 [~~6kyu~~](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/solutions/javascript)
 
 ### ~~Take a Ten Minute Walk~~
-[6kyu](https://www.codewars.com/kata/take-a-ten-minute-walk/train/javascript)
+[~~6kyu~~](https://www.codewars.com/kata/take-a-ten-minute-walk/train/javascript)
 
 ### ~~You're a Square~~
 
-[7kyu](https://www.codewars.com/kata/youre-a-square/javascript)
+[~~7kyu~~](https://www.codewars.com/kata/youre-a-square/javascript)
 
 ### ~~Sum of Numbers~~
 
-[7kyu](https://www.codewars.com/kata/beginner-series-number-3-sum-of-numbers/javascript)
+[~~7kyu~~](https://www.codewars.com/kata/beginner-series-number-3-sum-of-numbers/javascript)
 
 ### ~~Sum of Two Lowest Positive Integers~~
 
-[7kyu](https://www.codewars.com/kata/sum-of-two-lowest-positive-integers/javascript)
+[~~7kyu~~](https://www.codewars.com/kata/sum-of-two-lowest-positive-integers/javascript)
 
 ### ~~Count Duplicates~~
 
-[6kyu](https://www.codewars.com/kata/counting-duplicates/train/javascript)
+[~~6kyu~~](https://www.codewars.com/kata/counting-duplicates/train/javascript)
 
 ### ~~Remove Anchor from URL~~
 
-[7kyu](https://www.codewars.com/kata/remove-anchor-from-url/javascript)
+[~~7kyu~~](https://www.codewars.com/kata/remove-anchor-from-url/javascript)
 
 ### ~~First Non-Repeating Character~~
 
-[5kyu](https://www.codewars.com/kata/first-non-repeating-character/javascript)
+[~~5kyu~~](https://www.codewars.com/kata/first-non-repeating-character/javascript)
 
 ### ~~Only Duplicates~~
 
-[6kyu](https://www.codewars.com/kata/only-duplicates/train/javascript)
+[~~6kyu~~](https://www.codewars.com/kata/only-duplicates/train/javascript)
 
 ### ~~The Hashtag Generator~~
 
-[5kyu](https://www.codewars.com/kata/the-hashtag-generator/train/javascript)
+[~~5kyu~~](https://www.codewars.com/kata/the-hashtag-generator/train/javascript)
 
 ### ~~Exes and Ohs~~
 
-[7kyu](https://www.codewars.com/kata/exes-and-ohs/javascript)
+[~~7kyu~~](https://www.codewars.com/kata/exes-and-ohs/javascript)
 
 ### ~~Your Order Please~~
 
-[6kyu](https://www.codewars.com/kata/your-order-please/train/javascript)
+[~~6kyu~~](https://www.codewars.com/kata/your-order-please/train/javascript)
 
 ### ~~Maximum Multiple~~
 
-[7kyu](https://www.codewars.com/kata/maximum-multiple/javascript)
+[~~7kyu~~](https://www.codewars.com/kata/maximum-multiple/javascript)
 
 ### ~~Maximum Product~~
 
-[7kyu](https://www.codewars.com/kata/maximum-product/javascript)
+[~~7kyu~~](https://www.codewars.com/kata/maximum-product/javascript)
 
 ### ~~Duplicate Encoder~~
 
-[6kyu](https://www.codewars.com/kata/duplicate-encoder/train/javascript)
+[~~6kyu~~](https://www.codewars.com/kata/duplicate-encoder/train/javascript)
 
 ### Playing with Numbers (Collection)
 
@@ -66,15 +66,15 @@
 
 ### ~~Who Likes It?~~
 
-[6kyu](https://www.codewars.com/kata/who-likes-it/train/javascript)
+[~~6kyu~~](https://www.codewars.com/kata/who-likes-it/train/javascript)
 
 ### ~~Find the Missing Letter~~
 
-[6kyu](https://www.codewars.com/kata/find-the-missing-letter/train/javascript)
+[~~6kyu~~](https://www.codewars.com/kata/find-the-missing-letter/train/javascript)
 
 ### ~~Mumbling~~
 
-[7kyu](https://www.codewars.com/kata/mumbling/train/javascript)
+[~~7kyu~~](https://www.codewars.com/kata/mumbling/train/javascript)
 
 <!--
 /*
@@ -89,11 +89,11 @@
 
 ### ~~Validate Credit Card Number~~
 
-[6kyu](https://www.codewars.com/kata/validate-credit-card-number/train/javascript)
+[~~6kyu~~](https://www.codewars.com/kata/validate-credit-card-number/train/javascript)
 
 ### ~~Simple Pig Latin~~
 
-[5kyu](https://www.codewars.com/kata/simple-pig-latin/train/javascript)
+[~~5kyu~~](https://www.codewars.com/kata/simple-pig-latin/train/javascript)
 
 ### Human Readable Time
 
