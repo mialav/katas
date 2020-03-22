@@ -95,17 +95,17 @@
 
 [~~5kyu~~](https://www.codewars.com/kata/simple-pig-latin/train/javascript)
 
-### Human Readable Time
+### ~~Human Readable Time~~
 
-[5kyu](https://www.codewars.com/kata/human-readable-time/train/javascript)
+[~~5kyu~~](https://www.codewars.com/kata/human-readable-time/train/javascript)
 
-### Directions Reduction
+### ~~Directions Reduction~~
 
-[5kyu](https://www.codewars.com/kata/directions-reduction/javascript)
+[~~5kyu~~](https://www.codewars.com/kata/directions-reduction/javascript)
 
-### Greed is Good
+### ~~Greed is Good~~
 
-[5kyu](https://www.codewars.com/kata/greed-is-good/train/javascript)
+[~~5kyu](https://www.codewars.com/kata/greed-is-good/train/javascript)
 
 ### Delete occurrences of an element if it occurs more than n times
 
