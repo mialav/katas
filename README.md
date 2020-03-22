@@ -105,7 +105,7 @@
 
 ### ~~Greed is Good~~
 
-[~~5kyu](https://www.codewars.com/kata/greed-is-good/train/javascript)
+[~~5kyu~~](https://www.codewars.com/kata/greed-is-good/train/javascript)
 
 ### Delete occurrences of an element if it occurs more than n times
 
