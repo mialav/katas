@@ -117,7 +117,7 @@
 
 ### ~~Sum Consecutives~~
 
-[~~6kyu](https://www.codewars.com/kata/sum-consecutives/train/javascript)
+[~~6kyu~~](https://www.codewars.com/kata/sum-consecutives/train/javascript)
 
 ### Rot13
 
