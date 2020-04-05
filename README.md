@@ -119,9 +119,9 @@
 
 [~~6kyu~~](https://www.codewars.com/kata/sum-consecutives/train/javascript)
 
-### Rot13
+### ~~Rot13~~
 
-[5kyu](https://www.codewars.com/kata/rot13-1/train/javascript)
+[~~5kyu~~](https://www.codewars.com/kata/rot13-1/train/javascript)
 
 ### Playing with Digits
 
