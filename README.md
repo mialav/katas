@@ -115,9 +115,9 @@
 
 [5kyu](https://www.codewars.com/kata/weight-for-weight/train/javascript)
 
-### Sum Consecutives
+### ~~Sum Consecutives~~
 
-[6kyu](https://www.codewars.com/kata/sum-consecutives/train/javascript)
+[~~6kyu](https://www.codewars.com/kata/sum-consecutives/train/javascript)
 
 ### Rot13
 
